@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sitemap.ciep-petanque.com/sitemap.xml
+Sitemap: https://sitemap.ciep-petanque.com/ciep-petanque-sitemap/sitemap.xml
