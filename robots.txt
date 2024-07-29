@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://your-username.github.io/ciep-petanque-sitemap/sitemap.xml
+Sitemap: https://008diane008.github.io/ciep-petanque-sitemap/sitemap.xml
