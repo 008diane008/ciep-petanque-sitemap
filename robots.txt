@@ -1,3 +1,4 @@
 User-agent: *
-Allow: /
-Sitemap: https://008diane008.github.io/ciep-petanque-sitemap/sitemap.xml
+Disallow:
+
+Sitemap: https://sitemap.ciep-petanque.com/sitemap.xml
